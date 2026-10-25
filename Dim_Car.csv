@@ -1,0 +1,131 @@
+Car_ID,Brand,Model,Body_Type,Segment,Fuel_Type,Transmission,New_Price_INR
+1,Maruti Suzuki,Alto K10,Hatchback,Entry,Petrol,Manual,420000.0
+2,Maruti Suzuki,Alto K10,Hatchback,Entry,Petrol,Automatic,462000.0
+3,Maruti Suzuki,Alto K10,Hatchback,Entry,CNG,Manual,441000.0
+4,Maruti Suzuki,Alto K10,Hatchback,Entry,CNG,Automatic,485000.0
+5,Maruti Suzuki,WagonR,Hatchback,Entry,Petrol,Manual,590000.0
+6,Maruti Suzuki,WagonR,Hatchback,Entry,Petrol,Automatic,649000.0
+7,Maruti Suzuki,WagonR,Hatchback,Entry,CNG,Manual,620000.0
+8,Maruti Suzuki,WagonR,Hatchback,Entry,CNG,Automatic,681000.0
+9,Maruti Suzuki,Swift,Hatchback,Mid,Petrol,Manual,680000.0
+10,Maruti Suzuki,Swift,Hatchback,Mid,Petrol,Automatic,748000.0
+11,Maruti Suzuki,Swift,Hatchback,Mid,CNG,Manual,714000.0
+12,Maruti Suzuki,Swift,Hatchback,Mid,CNG,Automatic,785000.0
+13,Maruti Suzuki,Baleno,Hatchback,Mid,Petrol,Manual,780000.0
+14,Maruti Suzuki,Baleno,Hatchback,Mid,Petrol,Automatic,858000.0
+15,Maruti Suzuki,Baleno,Hatchback,Mid,CNG,Manual,819000.0
+16,Maruti Suzuki,Baleno,Hatchback,Mid,CNG,Automatic,901000.0
+17,Maruti Suzuki,Dzire,Sedan,Mid,Petrol,Manual,720000.0
+18,Maruti Suzuki,Dzire,Sedan,Mid,Petrol,Automatic,792000.0
+19,Maruti Suzuki,Dzire,Sedan,Mid,CNG,Manual,756000.0
+20,Maruti Suzuki,Dzire,Sedan,Mid,CNG,Automatic,832000.0
+21,Maruti Suzuki,Dzire,Sedan,Mid,Diesel,Manual,828000.0
+22,Maruti Suzuki,Dzire,Sedan,Mid,Diesel,Automatic,911000.0
+23,Maruti Suzuki,Brezza,SUV,Mid,Petrol,Manual,980000.0
+24,Maruti Suzuki,Brezza,SUV,Mid,Petrol,Automatic,1078000.0
+25,Maruti Suzuki,Brezza,SUV,Mid,CNG,Manual,1029000.0
+26,Maruti Suzuki,Brezza,SUV,Mid,CNG,Automatic,1132000.0
+27,Maruti Suzuki,Brezza,SUV,Mid,Diesel,Manual,1127000.0
+28,Maruti Suzuki,Brezza,SUV,Mid,Diesel,Automatic,1240000.0
+29,Maruti Suzuki,Ertiga,MUV,Mid,Petrol,Manual,990000.0
+30,Maruti Suzuki,Ertiga,MUV,Mid,Petrol,Automatic,1089000.0
+31,Maruti Suzuki,Ertiga,MUV,Mid,CNG,Manual,1040000.0
+32,Maruti Suzuki,Ertiga,MUV,Mid,CNG,Automatic,1143000.0
+33,Maruti Suzuki,Ertiga,MUV,Mid,Diesel,Manual,1138000.0
+34,Maruti Suzuki,Ertiga,MUV,Mid,Diesel,Automatic,1252000.0
+35,Hyundai,Grand i10 Nios,Hatchback,Entry,Petrol,Manual,630000.0
+36,Hyundai,Grand i10 Nios,Hatchback,Entry,Petrol,Automatic,693000.0
+37,Hyundai,Grand i10 Nios,Hatchback,Entry,CNG,Manual,662000.0
+38,Hyundai,Grand i10 Nios,Hatchback,Entry,CNG,Automatic,728000.0
+39,Hyundai,i20,Hatchback,Mid,Petrol,Manual,880000.0
+40,Hyundai,i20,Hatchback,Mid,Petrol,Automatic,968000.0
+41,Hyundai,i20,Hatchback,Mid,Diesel,Manual,1012000.0
+42,Hyundai,i20,Hatchback,Mid,Diesel,Automatic,1113000.0
+43,Hyundai,Venue,SUV,Mid,Petrol,Manual,950000.0
+44,Hyundai,Venue,SUV,Mid,Petrol,Automatic,1045000.0
+45,Hyundai,Venue,SUV,Mid,Diesel,Manual,1092000.0
+46,Hyundai,Venue,SUV,Mid,Diesel,Automatic,1202000.0
+47,Hyundai,Verna,Sedan,Premium,Petrol,Manual,1180000.0
+48,Hyundai,Verna,Sedan,Premium,Petrol,Automatic,1298000.0
+49,Hyundai,Verna,Sedan,Premium,Diesel,Manual,1357000.0
+50,Hyundai,Verna,Sedan,Premium,Diesel,Automatic,1493000.0
+51,Hyundai,Creta,SUV,Premium,Petrol,Manual,1350000.0
+52,Hyundai,Creta,SUV,Premium,Petrol,Automatic,1485000.0
+53,Hyundai,Creta,SUV,Premium,Diesel,Manual,1552000.0
+54,Hyundai,Creta,SUV,Premium,Diesel,Automatic,1708000.0
+55,Tata,Tiago,Hatchback,Entry,Petrol,Manual,600000.0
+56,Tata,Tiago,Hatchback,Entry,Petrol,Automatic,660000.0
+57,Tata,Tiago,Hatchback,Entry,CNG,Manual,630000.0
+58,Tata,Tiago,Hatchback,Entry,CNG,Automatic,693000.0
+59,Tata,Altroz,Hatchback,Mid,Petrol,Manual,790000.0
+60,Tata,Altroz,Hatchback,Mid,Petrol,Automatic,869000.0
+61,Tata,Altroz,Hatchback,Mid,Diesel,Manual,908000.0
+62,Tata,Altroz,Hatchback,Mid,Diesel,Automatic,999000.0
+63,Tata,Punch,SUV,Mid,Petrol,Manual,740000.0
+64,Tata,Punch,SUV,Mid,Petrol,Automatic,814000.0
+65,Tata,Punch,SUV,Mid,CNG,Manual,777000.0
+66,Tata,Punch,SUV,Mid,CNG,Automatic,855000.0
+67,Tata,Nexon,SUV,Mid,Petrol,Manual,1000000.0
+68,Tata,Nexon,SUV,Mid,Petrol,Automatic,1100000.0
+69,Tata,Nexon,SUV,Mid,Diesel,Manual,1150000.0
+70,Tata,Nexon,SUV,Mid,Diesel,Automatic,1265000.0
+71,Tata,Nexon EV,SUV,Premium,Electric,Automatic,1650000.0
+72,Tata,Harrier,SUV,Premium,Diesel,Manual,1955000.0
+73,Tata,Harrier,SUV,Premium,Diesel,Automatic,2150000.0
+74,Mahindra,Bolero,SUV,Mid,Diesel,Manual,1173000.0
+75,Mahindra,Scorpio,SUV,Premium,Diesel,Manual,1667000.0
+76,Mahindra,Scorpio,SUV,Premium,Diesel,Automatic,1834000.0
+77,Mahindra,Thar,SUV,Premium,Petrol,Manual,1350000.0
+78,Mahindra,Thar,SUV,Premium,Petrol,Automatic,1485000.0
+79,Mahindra,Thar,SUV,Premium,Diesel,Manual,1552000.0
+80,Mahindra,Thar,SUV,Premium,Diesel,Automatic,1708000.0
+81,Mahindra,XUV700,SUV,Luxury,Petrol,Manual,1800000.0
+82,Mahindra,XUV700,SUV,Luxury,Petrol,Automatic,1980000.0
+83,Mahindra,XUV700,SUV,Luxury,Diesel,Manual,2070000.0
+84,Mahindra,XUV700,SUV,Luxury,Diesel,Automatic,2277000.0
+85,Mahindra,XUV300,SUV,Mid,Petrol,Manual,980000.0
+86,Mahindra,XUV300,SUV,Mid,Petrol,Automatic,1078000.0
+87,Mahindra,XUV300,SUV,Mid,Diesel,Manual,1127000.0
+88,Mahindra,XUV300,SUV,Mid,Diesel,Automatic,1240000.0
+89,Honda,Amaze,Sedan,Mid,Petrol,Manual,780000.0
+90,Honda,Amaze,Sedan,Mid,Petrol,Automatic,858000.0
+91,Honda,Amaze,Sedan,Mid,Diesel,Manual,897000.0
+92,Honda,Amaze,Sedan,Mid,Diesel,Automatic,987000.0
+93,Honda,City,Sedan,Premium,Petrol,Manual,1250000.0
+94,Honda,City,Sedan,Premium,Petrol,Automatic,1375000.0
+95,Honda,City,Sedan,Premium,Diesel,Manual,1437000.0
+96,Honda,City,Sedan,Premium,Diesel,Automatic,1581000.0
+97,Toyota,Glanza,Hatchback,Mid,Petrol,Manual,780000.0
+98,Toyota,Glanza,Hatchback,Mid,Petrol,Automatic,858000.0
+99,Toyota,Glanza,Hatchback,Mid,CNG,Manual,819000.0
+100,Toyota,Glanza,Hatchback,Mid,CNG,Automatic,901000.0
+101,Toyota,Innova Crysta,MUV,Luxury,Diesel,Manual,2530000.0
+102,Toyota,Innova Crysta,MUV,Luxury,Diesel,Automatic,2783000.0
+103,Toyota,Innova Crysta,MUV,Luxury,Petrol,Manual,2200000.0
+104,Toyota,Innova Crysta,MUV,Luxury,Petrol,Automatic,2420000.0
+105,Toyota,Fortuner,SUV,Luxury,Diesel,Manual,4140000.0
+106,Toyota,Fortuner,SUV,Luxury,Diesel,Automatic,4554000.0
+107,Toyota,Fortuner,SUV,Luxury,Petrol,Manual,3600000.0
+108,Toyota,Fortuner,SUV,Luxury,Petrol,Automatic,3960000.0
+109,Kia,Sonet,SUV,Mid,Petrol,Manual,950000.0
+110,Kia,Sonet,SUV,Mid,Petrol,Automatic,1045000.0
+111,Kia,Sonet,SUV,Mid,Diesel,Manual,1092000.0
+112,Kia,Sonet,SUV,Mid,Diesel,Automatic,1202000.0
+113,Kia,Seltos,SUV,Premium,Petrol,Manual,1380000.0
+114,Kia,Seltos,SUV,Premium,Petrol,Automatic,1518000.0
+115,Kia,Seltos,SUV,Premium,Diesel,Manual,1587000.0
+116,Kia,Seltos,SUV,Premium,Diesel,Automatic,1746000.0
+117,Renault,Kwid,Hatchback,Entry,Petrol,Manual,500000.0
+118,Renault,Kwid,Hatchback,Entry,Petrol,Automatic,550000.0
+119,Skoda,Slavia,Sedan,Premium,Petrol,Manual,1250000.0
+120,Skoda,Slavia,Sedan,Premium,Petrol,Automatic,1375000.0
+121,Volkswagen,Virtus,Sedan,Premium,Petrol,Manual,1280000.0
+122,Volkswagen,Virtus,Sedan,Premium,Petrol,Automatic,1408000.0
+123,MG,Hector,SUV,Luxury,Petrol,Manual,1650000.0
+124,MG,Hector,SUV,Luxury,Petrol,Automatic,1815000.0
+125,MG,Hector,SUV,Luxury,Diesel,Manual,1897000.0
+126,MG,Hector,SUV,Luxury,Diesel,Automatic,2087000.0
+127,Ford,EcoSport,SUV,Mid,Petrol,Manual,980000.0
+128,Ford,EcoSport,SUV,Mid,Petrol,Automatic,1078000.0
+129,Ford,EcoSport,SUV,Mid,Diesel,Manual,1127000.0
+130,Ford,EcoSport,SUV,Mid,Diesel,Automatic,1240000.0

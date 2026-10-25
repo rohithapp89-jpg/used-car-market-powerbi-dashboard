@@ -1,0 +1,19 @@
+City_ID,City,State,City_Tier,Region,Latitude,Longitude
+1,Delhi,Delhi,Tier 1,North,28.61,77.21
+2,Mumbai,Maharashtra,Tier 1,West,19.08,72.88
+3,Bengaluru,Karnataka,Tier 1,South,12.97,77.59
+4,Hyderabad,Telangana,Tier 1,South,17.39,78.49
+5,Chennai,Tamil Nadu,Tier 1,South,13.08,80.27
+6,Pune,Maharashtra,Tier 1,West,18.52,73.86
+7,Kolkata,West Bengal,Tier 1,East,22.57,88.36
+8,Ahmedabad,Gujarat,Tier 1,West,23.02,72.57
+9,Jaipur,Rajasthan,Tier 2,North,26.91,75.79
+10,Lucknow,Uttar Pradesh,Tier 2,North,26.85,80.95
+11,Chandigarh,Chandigarh,Tier 2,North,30.73,76.78
+12,Kochi,Kerala,Tier 2,South,9.93,76.27
+13,Indore,Madhya Pradesh,Tier 2,Central,22.72,75.86
+14,Nagpur,Maharashtra,Tier 2,Central,21.15,79.09
+15,Coimbatore,Tamil Nadu,Tier 2,South,11.02,76.96
+16,Surat,Gujarat,Tier 2,West,21.17,72.83
+17,Patna,Bihar,Tier 3,East,25.59,85.14
+18,Bhopal,Madhya Pradesh,Tier 3,Central,23.26,77.41
